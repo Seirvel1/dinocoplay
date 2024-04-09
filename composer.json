@@ -1,0 +1,7 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0",
+        "phpmailer/phpmailer": "*",
+        "symfony/mailer": "^7.0"
+    }
+}
